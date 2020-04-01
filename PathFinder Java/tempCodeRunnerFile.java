@@ -1,0 +1,1 @@
+g.setColor(Color.BLACK);
